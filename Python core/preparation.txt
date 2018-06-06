@@ -1,0 +1,28 @@
+1. python interpreter/memory management/ intern of object / heap and stack memory / queue/stack (push, pop)
+2. datatypes
+3. slicing/ indexing
+4. list/dictionary in built method
+5. all kind of comprehension *****
+6. generator *****
+7. functions/ class/ OOP / abstraction and implementation(stack overflow )
+***** calling nature of python ******
+---> call by object
+immutable object--- call by value
+mutable object --- call by reference
+
+8. regex-----*****
+9. parsing/file handling ---json, csv, xml vs json , webscraping beautiful soup
+10. exception handling ---hierarchy
+11. logging/debug*** corey bhai
+12. * pattern/ number patt/ char patt/
+13. decorators ******
+14. scope of variables
+15. all __methods__
+16. threading
+17. git commands -->> https://www.youtube.com/watch?v=SWYqp7iY_Tc
+18. pickling/
+19. paramiko/OS/Subprocess----(for testing domains)
+20. fizzbuzz problem(ref. from image)
+21. lambda ------------->>> map filter reduce (csv data manipulate --- stackover flow  )
+22. ArgParse(Module...........)
+23. Numpy/pandas/matplotlib

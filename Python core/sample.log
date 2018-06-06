@@ -1,0 +1,12 @@
+2018-03-14 21:50:12,846 : ERROR : __main__ : Zero Dividion ERROR
+2018-03-14 21:59:03,939 : ERROR : __main__ : Zero Division Error
+2018-03-14 21:59:54,757 : ERROR : __main__ : Zero Division Error
+Traceback (most recent call last):
+  File "C:\Users\Raj\Documents\sublimePython\logging module.py", line 43, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2018-03-14 22:02:45,558 : ERROR : __main__ : Zero Division Error
+Traceback (most recent call last):
+  File "C:\Users\Raj\Documents\sublimePython\logging module.py", line 47, in divide
+    result = x / y
+ZeroDivisionError: division by zero

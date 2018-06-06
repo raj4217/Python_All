@@ -1,0 +1,7 @@
+Tutorials,Description,Links
+Data Analysis,"Learn how to use Python with Pandas, Matplotlib, and other modules to gather insights from and about your data.",https://pythonprogramming.net/data-analysis-tutorials/
+Robotics,Control hardware with Python programming and the Raspberry Pi.,https://pythonprogramming.net/robotics-tutorials/
+Web Development,How to develop websites with either the Flask or Django frameworks for Python.,https://pythonprogramming.net/web-development-tutorials/
+Game Development,"Create your own games with Python's PyGame library, or check out the multi-platform Kivy.",https://pythonprogramming.net/game-development-tutorials/
+Python Fundamentals,Learn the basic and intermediate Python fundamentals.,https://pythonprogramming.net/python-fundamental-tutorials/
+GUIs,"Create software with a user interface using Tkinter, PyQt, or Kivy.",https://pythonprogramming.net/gui-development-tutorials/

@@ -1,0 +1,10 @@
+1. Display ename,dname even if there no employees working in a particular department.
+2. List out the lowest paid employees working under each manager, exclude any groups where minsal is less than 1000, sort the output by salary
+3. Display the name of employee who earn Highest Salary
+4. Display the employee Number and name for employee working as clerk and earning highest salary among the clerks.
+5. Display the job groups having Total Salary greater than the maximum salary for Managers.
+6. Display the names of employees from department number 10 with salary greater than that of ANY employee working in other departments.
+7. Display those employees whose salary is greater than his managers salary.
+8. Display the grade and employees name for the deptno 10 or 30 but grade is not 4 while joined the company before 31-DEC-82.
+9. Display the Second maximum salary from the table using subquery.
+10. Display those employees whose salary is less than his manager but more than salary of other managers.

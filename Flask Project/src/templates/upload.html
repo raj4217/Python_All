@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-
+    WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<h1>Graph Plotter</h1>
+<br><br/>
+<form id="upload-form" action="{{ url_for('upload') }}" method="POST" enctype="multipart/form-data">
+    <div class = "form-group">
+        <input id="file-picker" type="file" name="file" accept="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,
+     application/vnd.ms-excel" multiple>
+        <small id="formatInfo" class="form-text text-muted">Only .xlsx and .xlx format supported</small>
+    </div>
+
+
+    <!--Mention the y/x parameters-->
+    <!--<div class = "form-group">-->
+        <!--<input id="parm1" type="text" name = "parm1">-->
+        <!--<input id="parm2" type="text" name = "parm2">-->
+        <!--<small class="form-text text-muted">x-parameter&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;y-parameter</small>-->
+    <!--</div>-->
+    <input class="btn btn-primary" type="submit" value="Plot graph">
+
+</form>
+
+</body>
+</html>
